@@ -15,3 +15,10 @@ predict emoji from user input with the LSTM deep learning algorithm using these 
 
 ![image](https://github.com/zuleyhairmakk/Emoji-Prediction/assets/87870858/73abb3a2-97d2-4761-ab16-33b82094f7c2)
 
+# Overall Method
+![image](https://github.com/zuleyhairmakk/Emoji-Prediction/assets/87870858/43c22345-8e4b-4295-994e-d087b53a6758)
+
+# Results
+![image](https://github.com/zuleyhairmakk/Emoji-Prediction/assets/87870858/8ecdd3c1-6594-42b6-8fcf-8df165d75bbe)
+
+
