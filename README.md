@@ -10,3 +10,8 @@ approximately 5 million subscribers in 2023, were used. Sadness using these comm
 containing Contempt and Joy emotions were examined and these emotions were generally divided into 
 4 emoji categories. There are 2000 data in total, 500 data in each category. The aim of the project is to 
 predict emoji from user input with the LSTM deep learning algorithm using these data sets.
+
+# Plutchik emotions wheel
+
+![image](https://github.com/zuleyhairmakk/Emoji-Prediction/assets/87870858/73abb3a2-97d2-4761-ab16-33b82094f7c2)
+
